@@ -1,5 +1,5 @@
 all:
-	c++ c.cpp
+	c++ a.cpp
 
 run:	all
 	./a.out
