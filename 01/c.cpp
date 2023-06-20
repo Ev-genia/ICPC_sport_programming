@@ -13,7 +13,6 @@ int main() {
     std::cout << fib1 << std::endl;
     return (0);
   }
-	getline(std::cin, line);
   while (i < n - 2) {
     fib_sum = fib1 + fib2;
     fib1 = fib2;
